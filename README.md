@@ -1,6 +1,6 @@
 # Time Series Prediction
 
-Prediction energy demand into the italian market
+Prediction of ENERGY DEMAND into the italian market
 
 #timeseries
 
