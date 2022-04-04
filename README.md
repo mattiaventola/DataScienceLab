@@ -5,7 +5,7 @@ Prediction energy demand into the italian market
 #timeseries
 
 Models:
-#xgBoost
+#XGBoost
 #Prophet
 #SVR
 #Sarima
