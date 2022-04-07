@@ -10,3 +10,5 @@ Models:
 #SVR
 #Sarima
 #MSTL
+
+https://github.com/mattiaventola/DataScienceLab/blob/main/PRESENTATION.pdf
