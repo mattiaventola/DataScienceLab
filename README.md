@@ -11,4 +11,4 @@ Models:
 #Sarima
 #MSTL
 
-https://github.com/mattiaventola/DataScienceLab/blob/main/PRESENTATION.pdf
+[embed]https://github.com/mattiaventola/DataScienceLab/blob/main/PRESENTATION.pdf[embed]
