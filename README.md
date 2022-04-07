@@ -12,4 +12,4 @@ Models:
 #MSTL
 
 
-![This is an image](main/assets/images/screendslab.png)
+![This is an image](https://github.com/mattiaventola/DataScienceLab/blob/main/screendslab.jpg)
