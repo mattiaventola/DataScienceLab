@@ -1,4 +1,4 @@
-# Time Series Prediction: one week ENERGY DEMANDD prediction
+# Time Series Prediction: one week ENERGY DEMAND prediction
 
 Prediction of ENERGY DEMAND into the italian market
 
