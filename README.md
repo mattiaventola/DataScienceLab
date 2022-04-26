@@ -1,6 +1,6 @@
-# Time Series Prediction: ENERGY DEMAND prediction for the first week
+# Time Series Prediction: ENERGY DEMAND forecasting (first week)
 
-Prediction of ENERGY DEMAND into the italian market
+Forecasting of ENERGY DEMAND into the italian market
 
 #timeseries
 
